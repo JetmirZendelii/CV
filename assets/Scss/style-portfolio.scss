@@ -1,0 +1,14 @@
+$background-color: #081b29;
+$white-font-color: #fff;
+$navy-blue-font-color: #33BBC5;
+body{
+    background:$background-color;
+    /* width: 1250px; */
+    margin: 0 auto;
+    /* background: url(../img/backgroundimg.png) no-repeat;
+    background-size: cover;
+    background-position: center; */
+}
+div h4{
+    color: $navy-blue-font-color;
+}

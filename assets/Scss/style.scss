@@ -1,0 +1,37 @@
+$background-color: #081b29;
+$white-font-color: #fff;
+$navy-blue-font-color: #33BBC5;
+body{
+    /*background:$background-color;*/
+    /* width: 1250px; */
+    /* margin: 0 auto; */
+    background: url(../img/backgroundimg.png) no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+div h1{
+    color: $white-font-color;
+    font-size: 56px;
+    font-weight: 700;
+}
+div h3{
+    color: $navy-blue-font-color;
+    font-size: 32px;
+    font-weight: 700;
+}
+div p{
+    color: $white-font-color;
+    margin-top: 20px;
+}
+.home-content{
+    max-width: 600px;
+}
+.home{
+    margin-top: 170px;
+}
+.butonat{
+    margin-top: 30px;
+}
+.social-networks{
+    margin-top: 100px;
+}
